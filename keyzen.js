@@ -24,7 +24,7 @@ layouts["pinev4"] = " nrstwpheaiqlcmk'fuoyjxzgvbd;,.";
 layouts["kuntum"] = " tsrhfgcaeivlndkjwou,zxpb'myq/.";
 layouts["kuntem"] = " tsrhfgcaievlndkjwouqzxpb'my.,/";
 layouts["sisu"] = " phlmdföoy,tsnkjcueaigbrv.xä'wz"
-lagouts["finch"] = " crstmpnaiuevlywqjfo,;zxgykbh'./ "
+lagouts["finch"] = " crstmpnaiuevlywqjfo,/zxgykbh'.; "
 // layouts[""] = " ";
 
 $(document).ready(function() {
